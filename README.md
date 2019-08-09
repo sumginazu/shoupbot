@@ -1,0 +1,2 @@
+# shoupbot
+my discord bot!
